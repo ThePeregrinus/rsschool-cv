@@ -13,3 +13,13 @@ I am a student at The Rolling Scopes School.
 - JavaScript
 - TypeScript
 - Golang
+
+## Code example
+
+```javascript
+console.log("Hello World!");
+```
+
+## English
+
+B1
