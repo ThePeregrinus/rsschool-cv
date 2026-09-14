@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://theperegrinus.github.io/rsschool-cv/cv
+https://theperegrinus.github.io/rsschool-cv/
